@@ -1,0 +1,4 @@
+*~
+.DS_Store
+*.beam
+src/lfe_scan.erl
