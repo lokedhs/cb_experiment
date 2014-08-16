@@ -1,6 +1,0 @@
-*.beam
-*.app
-*.plt
-/ebin/
-/.eunit/
-rebar

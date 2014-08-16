@@ -1,9 +1,0 @@
-.DS_Store
-ebin/*
-.eunit
-deps
-*.sublime-project
-*.sublime-workspace
-log
-.local_dialyzer_plt
-erln8.config

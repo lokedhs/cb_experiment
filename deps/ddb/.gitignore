@@ -1,7 +1,0 @@
-ebin/
-deps/
-*.plt
-*.beam
-app.config
-.eunit
-log*

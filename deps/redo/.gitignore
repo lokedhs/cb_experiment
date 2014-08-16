@@ -1,4 +1,0 @@
-*.swp
-src/*.swp
-ebin
-.eunit
