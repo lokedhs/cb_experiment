@@ -5,6 +5,6 @@
               {applications,[kernel,stdlib]},
               {mod,{mimetypes_app,[]}},
               {env,[]},
-              {modules,[mimetypes_disp,mimetypes_map,mimetypes,mimetypes_app,
-                        mimetypes_loader,mimetypes_parse,mimetypes_scan,
-                        mimetypes_sup]}]}.
+              {modules,[mimetypes,mimetypes_app,mimetypes_disp,
+                        mimetypes_loader,mimetypes_map,mimetypes_parse,
+                        mimetypes_scan,mimetypes_sup]}]}.

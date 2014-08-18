@@ -1,6 +1,6 @@
 {application,erlydtl,
              [{description,"Django Template Language for Erlang"},
-              {vsn,"0.9.2-45-gb9ec861"},
+              {vsn,"0289e4c"},
               {modules,[blocktrans_extractor,blocktrans_parser,
                         blocktrans_scanner,erlydtl,erlydtl_beam_compiler,
                         erlydtl_compiler,erlydtl_compiler_utils,
